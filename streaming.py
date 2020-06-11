@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 # coding: utf-8
-
+# This file alone will be used for the web app
 
 import newsapi
 from newsapi import NewsApiClient
